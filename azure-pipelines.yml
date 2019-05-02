@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Hosted Ubuntu 1604
+  name: lnkd-rhel7
 
 steps:
 - task: UsePythonVersion@0
